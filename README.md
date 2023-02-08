@@ -6,6 +6,8 @@
       
       - Click on a Lightgun folder
       
+      - Download zip for that Lightgun. (Indivual  parts listed in LIGHTGUN-NAME/STLS/ )
+      
       - Print all necessary parts
       
       - Follow assembly instructions in Lightgun folder.
